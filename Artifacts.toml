@@ -1,0 +1,252 @@
+[[Edlib]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b759c92fc7f0d9066371f998512288878b596abc"
+libc = "musl"
+os = "linux"
+
+    [[Edlib.download]]
+    sha256 = "60b30c1a83d6c177601d603e0f01d498bcdb92bdc52e1b866c57234cb3141d8e"
+    url = "https://github.com/JuliaBinaryWrappers/Edlib_jll.jl/releases/download/Edlib-v1.2.6+0/Edlib.v1.2.6.x86_64-linux-musl-cxx11.tar.gz"
+[[Edlib]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dc8ed9cfe1009838cd8425e0556d6c351ae8f7b5"
+libc = "musl"
+os = "linux"
+
+    [[Edlib.download]]
+    sha256 = "db3224db267fdc39381efccc44652acf0c0c97ef0bb62fa4861bb8c9c9b5b99d"
+    url = "https://github.com/JuliaBinaryWrappers/Edlib_jll.jl/releases/download/Edlib-v1.2.6+0/Edlib.v1.2.6.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Edlib]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "34c4cc6592738048c75d7434725b2de585554d95"
+libc = "glibc"
+os = "linux"
+
+    [[Edlib.download]]
+    sha256 = "9e74608c7b30293c02fae2667ea179640d10c7a50fefb1aebada3b11ed9a6d9a"
+    url = "https://github.com/JuliaBinaryWrappers/Edlib_jll.jl/releases/download/Edlib-v1.2.6+0/Edlib.v1.2.6.i686-linux-gnu-cxx03.tar.gz"
+[[Edlib]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4953e8d98863e260f2e136914a78938d5a7167c9"
+libc = "musl"
+os = "linux"
+
+    [[Edlib.download]]
+    sha256 = "ed900c5423ebab6922f8edf5c29d980135a723c75cc1a3f261178a6f4da6aa16"
+    url = "https://github.com/JuliaBinaryWrappers/Edlib_jll.jl/releases/download/Edlib-v1.2.6+0/Edlib.v1.2.6.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Edlib]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9ec4f98af4c69b374d3ef87d0bffcf4a31f4607b"
+os = "macos"
+
+    [[Edlib.download]]
+    sha256 = "3f4ce90efb116d21a4bdd4d276c56e9eb1e66f8f170b6bed58a06b25a687f7e3"
+    url = "https://github.com/JuliaBinaryWrappers/Edlib_jll.jl/releases/download/Edlib-v1.2.6+0/Edlib.v1.2.6.x86_64-apple-darwin14-cxx03.tar.gz"
+[[Edlib]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8409a7cb6bd533bea504550251451c36a2225bd9"
+libc = "musl"
+os = "linux"
+
+    [[Edlib.download]]
+    sha256 = "d83254b2c382def81da819d95d910d0e0d76038f06d6d8cf51da159bd7f2fa56"
+    url = "https://github.com/JuliaBinaryWrappers/Edlib_jll.jl/releases/download/Edlib-v1.2.6+0/Edlib.v1.2.6.x86_64-linux-musl-cxx03.tar.gz"
+[[Edlib]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "13d19a0b532015885b7afbeb9d0a17c5b170d04d"
+os = "windows"
+
+    [[Edlib.download]]
+    sha256 = "e4aae16da39e6521da27b63d101a87b1db3b40ddd8c496ea0b5004e0c7581522"
+    url = "https://github.com/JuliaBinaryWrappers/Edlib_jll.jl/releases/download/Edlib-v1.2.6+0/Edlib.v1.2.6.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Edlib]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1983482671a4eb6ca87df48773c0de51cfbe83ea"
+libc = "glibc"
+os = "linux"
+
+    [[Edlib.download]]
+    sha256 = "9b3bbb052f3baf3c4e71190e6e08a45844cb2add58dc13249da85a53f252b946"
+    url = "https://github.com/JuliaBinaryWrappers/Edlib_jll.jl/releases/download/Edlib-v1.2.6+0/Edlib.v1.2.6.aarch64-linux-gnu-cxx11.tar.gz"
+[[Edlib]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "feac54367bf3048854c2638783c579baf029d131"
+libc = "musl"
+os = "linux"
+
+    [[Edlib.download]]
+    sha256 = "dcaa0cf598b304009b62661fd78572f6f09be353151acd22588c4bd3191cf5ed"
+    url = "https://github.com/JuliaBinaryWrappers/Edlib_jll.jl/releases/download/Edlib-v1.2.6+0/Edlib.v1.2.6.aarch64-linux-musl-cxx11.tar.gz"
+[[Edlib]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e5959cabf5cb47ffef8269c7a0d6984a2b7117ff"
+os = "macos"
+
+    [[Edlib.download]]
+    sha256 = "794a0e91266a2165a7249278d75663501867c6f8894bdacf30abcf4b251c0931"
+    url = "https://github.com/JuliaBinaryWrappers/Edlib_jll.jl/releases/download/Edlib-v1.2.6+0/Edlib.v1.2.6.x86_64-apple-darwin14-cxx11.tar.gz"
+[[Edlib]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e80547f253d4808d500c92c7cda4231a1dff55de"
+libc = "glibc"
+os = "linux"
+
+    [[Edlib.download]]
+    sha256 = "88a6b422821bc4fd310ceedca9d58ae48bb5ee2de6b6b8122863e64f50a70319"
+    url = "https://github.com/JuliaBinaryWrappers/Edlib_jll.jl/releases/download/Edlib-v1.2.6+0/Edlib.v1.2.6.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Edlib]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "66af101606e43550d2001bbe4b2ef0bda12a5815"
+libc = "glibc"
+os = "linux"
+
+    [[Edlib.download]]
+    sha256 = "8c7bc26375380d12304e0b7e279ccc978a91fbe91167263b207e79e0c0f6553f"
+    url = "https://github.com/JuliaBinaryWrappers/Edlib_jll.jl/releases/download/Edlib-v1.2.6+0/Edlib.v1.2.6.aarch64-linux-gnu-cxx03.tar.gz"
+[[Edlib]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b2015209850ba5f7b566ccda7926a515f4f3bda6"
+libc = "glibc"
+os = "linux"
+
+    [[Edlib.download]]
+    sha256 = "4a072a2282c47a97a48d74535bb6a1e6c65a0e2df29b85412efb75021adbc0f2"
+    url = "https://github.com/JuliaBinaryWrappers/Edlib_jll.jl/releases/download/Edlib-v1.2.6+0/Edlib.v1.2.6.x86_64-linux-gnu-cxx11.tar.gz"
+[[Edlib]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8eaca57eeed3c628186d5d8ddd2e199eab5d67d5"
+os = "freebsd"
+
+    [[Edlib.download]]
+    sha256 = "108bacd7c3e2c32221a3667447386ede5662a1f3f7e721085b244fcac6b1a58b"
+    url = "https://github.com/JuliaBinaryWrappers/Edlib_jll.jl/releases/download/Edlib-v1.2.6+0/Edlib.v1.2.6.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
+[[Edlib]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6bc9db0168cf110c11ca2b66c121e059a959240f"
+libc = "musl"
+os = "linux"
+
+    [[Edlib.download]]
+    sha256 = "9fe16b9d06bdb498e944dbf32b571b4c2434c7fd23f60d739180e24809ec002a"
+    url = "https://github.com/JuliaBinaryWrappers/Edlib_jll.jl/releases/download/Edlib-v1.2.6+0/Edlib.v1.2.6.i686-linux-musl-cxx03.tar.gz"
+[[Edlib]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "43f77d9610eb677b664707d47d8bf08ec5a582cd"
+libc = "glibc"
+os = "linux"
+
+    [[Edlib.download]]
+    sha256 = "23ffbef20f823fe3e6ef0298a6ca60d451f9fddca038211237ebde5643d47767"
+    url = "https://github.com/JuliaBinaryWrappers/Edlib_jll.jl/releases/download/Edlib-v1.2.6+0/Edlib.v1.2.6.i686-linux-gnu-cxx11.tar.gz"
+[[Edlib]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "23050bde09ff5ac0512d53673d6211f00241eaf4"
+libc = "musl"
+os = "linux"
+
+    [[Edlib.download]]
+    sha256 = "6d776cf71b38476d5a6b033a3241f73bb34d42de8018228574c98e3ff21bdcbd"
+    url = "https://github.com/JuliaBinaryWrappers/Edlib_jll.jl/releases/download/Edlib-v1.2.6+0/Edlib.v1.2.6.i686-linux-musl-cxx11.tar.gz"
+[[Edlib]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "49b1d88cd647a0d648cc517d585cd15152fa8357"
+libc = "glibc"
+os = "linux"
+
+    [[Edlib.download]]
+    sha256 = "55a840a9f2d1a58894dd88c92fbfee58887ca0b6b82a4984ffbe64027f004402"
+    url = "https://github.com/JuliaBinaryWrappers/Edlib_jll.jl/releases/download/Edlib-v1.2.6+0/Edlib.v1.2.6.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Edlib]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "94c05e5b84721063a73fd6e4117bcf5972ab13d8"
+libc = "musl"
+os = "linux"
+
+    [[Edlib.download]]
+    sha256 = "55d8aba281b7667b34a0fa195779bcdd4cb9e6ddad33c47ff1f0b157e7349cac"
+    url = "https://github.com/JuliaBinaryWrappers/Edlib_jll.jl/releases/download/Edlib-v1.2.6+0/Edlib.v1.2.6.aarch64-linux-musl-cxx03.tar.gz"
+[[Edlib]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3d5f0964a07ea9c54a0159df41dae5be53cea122"
+os = "windows"
+
+    [[Edlib.download]]
+    sha256 = "166f3a0a60398cf666877b608a99df40946b5916be666f26da9e1c9891dcfc71"
+    url = "https://github.com/JuliaBinaryWrappers/Edlib_jll.jl/releases/download/Edlib-v1.2.6+0/Edlib.v1.2.6.x86_64-w64-mingw32-cxx11.tar.gz"
+[[Edlib]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c51d176c5a7b6ff8fb5eb897bf5b3c3d59dcce2e"
+libc = "glibc"
+os = "linux"
+
+    [[Edlib.download]]
+    sha256 = "8c0aa95c3b1be9e1b73cc5ea9583dc552249aff7c87fe546d1165521a0db2c62"
+    url = "https://github.com/JuliaBinaryWrappers/Edlib_jll.jl/releases/download/Edlib-v1.2.6+0/Edlib.v1.2.6.x86_64-linux-gnu-cxx03.tar.gz"
+[[Edlib]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0c3f4f8879980f5328a51fd18789b756d27d6514"
+libc = "glibc"
+os = "linux"
+
+    [[Edlib.download]]
+    sha256 = "839ab7bfd5b17aa9b1c06bada8172756815589085d932c9fe9657905f69765c5"
+    url = "https://github.com/JuliaBinaryWrappers/Edlib_jll.jl/releases/download/Edlib-v1.2.6+0/Edlib.v1.2.6.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Edlib]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "935a1ea00f9205adbf41c85d4c5893484fae6d24"
+os = "freebsd"
+
+    [[Edlib.download]]
+    sha256 = "6040aeec692a0246f38da8503385aab9d3abbf248b1abda17832e4cfe03fb007"
+    url = "https://github.com/JuliaBinaryWrappers/Edlib_jll.jl/releases/download/Edlib-v1.2.6+0/Edlib.v1.2.6.x86_64-unknown-freebsd11.1-cxx03.tar.gz"
+[[Edlib]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "758f04c226a75e67e6f1f977bfd18e0df8f23eb3"
+os = "windows"
+
+    [[Edlib.download]]
+    sha256 = "86fd1bfd6c24d24953bbeae8bc26736d71b9a20b0f61b0fe86858d3a2a1eff49"
+    url = "https://github.com/JuliaBinaryWrappers/Edlib_jll.jl/releases/download/Edlib-v1.2.6+0/Edlib.v1.2.6.i686-w64-mingw32-cxx03.tar.gz"
+[[Edlib]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d76834b411ea2da9c81ddfb688a451f0695aae84"
+os = "windows"
+
+    [[Edlib.download]]
+    sha256 = "9716bb27ce2209f0d46017a4719987fc4c2ad74ab6974065149f69f274ef0446"
+    url = "https://github.com/JuliaBinaryWrappers/Edlib_jll.jl/releases/download/Edlib-v1.2.6+0/Edlib.v1.2.6.i686-w64-mingw32-cxx11.tar.gz"
+[[Edlib]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0b7ca61e988005f9b543804bc2f00df1f8d2f484"
+libc = "glibc"
+os = "linux"
+
+    [[Edlib.download]]
+    sha256 = "5dce8db5bfc61abdf034c42e9e75c9e5c73627b08f2f0f64e4679d9e30038353"
+    url = "https://github.com/JuliaBinaryWrappers/Edlib_jll.jl/releases/download/Edlib-v1.2.6+0/Edlib.v1.2.6.armv7l-linux-gnueabihf-cxx11.tar.gz"
